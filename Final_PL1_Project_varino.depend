@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591011899 source:c:\users\varin\desktop\final_pl1_project_varino\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
