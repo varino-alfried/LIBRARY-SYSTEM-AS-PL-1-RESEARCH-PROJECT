@@ -1,9 +1,9 @@
 # LIBRARY-SYSTEM-AS-PL-1-RESEARCH-PROJECT
-LIBRARY SYSTEM AS PL 1 RESEARCH PROJECT Level one faculty of computer science (Helwan university) C and C++ console application using files 
+LIBRARY SYSTEM AS PL 1 RESEARCH PROJECT Level one faculty of computer science (Helwan University) C and C++ console application using files 
 
 ## Adding a Book
 ![Adding a book](https://user-images.githubusercontent.com/66516413/169813572-02395faa-332d-470f-96cc-65bc05b1ca3f.png)
-## Deleteing a book by ID
+## Deleting a book by ID
 ![Deleteing a book by ID](https://user-images.githubusercontent.com/66516413/169813596-75f1fcc3-c806-47bb-8ef4-664bc6ef0289.png)
 ## Searching for a book by ID
 ![Searching for a book by ID](https://user-images.githubusercontent.com/66516413/169813522-9eb8960e-918c-4f72-8fe3-021141a956f9.png)
